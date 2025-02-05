@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jorgegmayorgas/teampracticejj">
+  <a href="https://github.com/jorgegmayorgas/flask_iris">
     <img src="https://jorgegmayorgas.github.io/flask_iris/images/intro01.jpg" alt="Logo" width="512" height="512">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     This is a web application in Python for deploying a ML model  <a href="https://scikit-learn.org/1.5/auto_examples/datasets/plot_iris_dataset.html">Iris Dataset</a>
     <br />
-    <a href="https://github.com/jorgegmayorgas/teampracticejj"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jorgegmayorgas/flask_iris"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jorgegmayorgas/teampracticejj">View Demo</a>
+    <a href="https://github.com/jorgegmayorgas/flask_iris">View Demo</a>
     ·
-    <a href="https://github.com/jorgegmayorgas/teampracticejj/issues">Report Bug</a>
+    <a href="https://github.com/jorgegmayorgas/flask_iris/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jorgegmayorgas/teampracticejj/issues">Request Feature</a>
+    <a href="https://github.com/jorgegmayorgas/flask_iris/issues">Request Feature</a>
   </p>
 </div>
 
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/jorgegmayorgas/teampracticejj)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/jorgegmayorgas/flask_iris)
 
 <!--Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jorgegmayorgas`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
@@ -163,7 +163,7 @@ To get a local copy up and running follow these simple example steps. -->
 3. Clone the repo on any Python app server
 
    ```
-    git clone https://github.com/jorgegmayorgas/teampracticejj
+    git clone https://github.com/jorgegmayorgas/flask_iris
    ```
 
 4. Install Python libraries
@@ -210,7 +210,7 @@ Modify templates/index.html to match your IP or domain
 - [ ] Feature 3
     - [ ] Nested Feature
 -->
-See the [open issues](https://github.com/jorgegmayorgas/ML_Project_YouTube_keyword_optimization/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jorgegmayorgas/flask_iris/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,7 +248,7 @@ Distributed under the GNU AFFERO GENERAL PUBLIC LICENSE License. See `LICENSE.tx
 
 Jorge Giménez - [LinkedIn](https://www.linkedin.com/in/jgimenezm/?locale=en_US) - jorgegmayorgas@gmail.com
 
-Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayorgas/)
+Project Link: [https://github.com/jorgegmayorgas/flask_iris](https://github.com/jorgegmayorgas/flask_iris)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,16 +272,16 @@ Project Link: [https://github.com/jorgegmayorgas/](https://github.com/jorgegmayo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jorgegmayorgas/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/jorgegmayorgas/teampracticejj/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jorgegmayorgas/teampracticejj.svg?style=for-the-badge
-[forks-url]: https://github.com/jorgegmayorgas/teampracticejj/network/members
-[stars-shield]: https://img.shields.io/github/stars/jorgegmayorgas/teampracticejj.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jorgegmayorgas/flask_iris.svg?style=for-the-badge
+[contributors-url]: https://github.com/jorgegmayorgas/flask_iris/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jorgegmayorgas/flask_iris.svg?style=for-the-badge
+[forks-url]: https://github.com/jorgegmayorgas/flask_iris/network/members
+[stars-shield]: https://img.shields.io/github/stars/jorgegmayorgas/flask_iris.svg?style=for-the-badge
 [stars-url]: https://github.com/jorgegmayorgas/teampracticejj/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jorgegmayorgas/teampracticejj.svg?style=for-the-badge
-[issues-url]: https://github.com/jorgegmayorgas/teampracticejj/issues
-[license-shield]: https://img.shields.io/github/license/jorgegmayorgas/teampracticejj.svg?style=for-the-badge
-[license-url]: https://github.com/jorgegmayorgas/teampracticejj/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/jorgegmayorgas/flask_iris.svg?style=for-the-badge
+[issues-url]: https://github.com/jorgegmayorgas/flask_iris/issues
+[license-shield]: https://img.shields.io/github/license/jorgegmayorgas/flask_iris.svg?style=for-the-badge
+[license-url]: https://github.com/jorgegmayorgas/flask_iris/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jgimenezm/?locale=en_US
 <!-- [product-screenshot]: images/intro_ppt.jpg -->
