@@ -42,7 +42,7 @@
     <a href="https://github.com/jorgegmayorgas/flask_iris"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jorgegmayorgas/flask_iris">View Demo</a>
+    <a href="https://serverapp.jorgegmayorgas.ovh/">Live Demo</a>
     ·
     <a href="https://github.com/jorgegmayorgas/flask_iris/issues">Report Bug</a>
     ·
