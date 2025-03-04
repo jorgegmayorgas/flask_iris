@@ -160,7 +160,7 @@ To get a local copy up and running follow these simple example steps. -->
         source env1/bin/activate
       ```
 
-3. Clone the repo on any Python app server
+3. Clone the repo
 
    ```
     git clone https://github.com/jorgegmayorgas/flask_iris
@@ -172,10 +172,10 @@ To get a local copy up and running follow these simple example steps. -->
     pip install -r requirements.txt
    ```
 
-5. Run application from directory teampracticejj
+5.1 Run application
 
    ```
-    python app_model.py
+    python app.py
    ```
 
 
