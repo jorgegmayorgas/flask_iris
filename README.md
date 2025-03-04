@@ -138,7 +138,7 @@ To get a local copy up and running follow these simple example steps. -->
 1. Create a virtual environment of Python named env1
 
    ```
-    python -m venv env1
+    python -m venv venv
    ```
    
 2. Activate it
@@ -147,17 +147,17 @@ To get a local copy up and running follow these simple example steps. -->
      * For Command Prompt:
 
         ```
-          env1\Scripts\activate
+          venv\Scripts\activate
         ```   
      * For PowerShell:
 
         ```
-          env1\Scripts\Activate
+          venv\Scripts\Activate
         ```   
    * On macOS/Linux (Bash/Zsh shell)
 
       ```
-        source env1/bin/activate
+        source venv/bin/activate
       ```
 
 3. Clone the repo
