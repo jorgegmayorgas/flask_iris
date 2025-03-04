@@ -172,7 +172,7 @@ To get a local copy up and running follow these simple example steps. -->
     pip install -r requirements.txt
    ```
 
-5.1 Run application
+5. Run application
 
    ```
     python app.py
